@@ -3,4 +3,13 @@ Deep Learning Image Classification
 
 A Deep Learning Classifier to classify various species of Monkeys.
 
-![Test Image 2](Images/i1.png)
+## Some species of monkey in dataset.
+
+![Project Image](Images/i1.png)
+
+## Learning Rate vs Loss
+
+![Project Image](Images/i2.png)
+
+
+
