@@ -11,5 +11,15 @@ A Deep Learning Classifier to classify various species of Monkeys.
 
 ![Project Image](Images/i2.png)
 
+## Confusion Matrix : The diagonal elements represent the number of images for which the predicted label is equal to the true label, while off-diagonal elements are those that are mislabeled by the classifier.
+
+![Project Image](Images/i3.png)
+
+## Images with top losses; in other words, the images that the model was most confused about. A high loss implies high confidence about the wrong answer.
+
+![Project Image](Images/i4.png)
+
+
+
 
 
