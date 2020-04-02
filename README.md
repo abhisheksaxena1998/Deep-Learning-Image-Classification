@@ -19,6 +19,11 @@ A Deep Learning Classifier to classify various species of Monkeys.
 
 ![Project Image](Images/i4.png)
 
+![Project Image](Images/i5.png)
+
+## Testing Model on unseen Images.
+
+![Project Image](Images/i7.png)
 
 
 
