@@ -25,6 +25,6 @@ A Deep Learning Classifier to classify various species of Monkeys.
 
 ![Project Image](Images/i6.png)
 
-
+### Similiar project link https://github.com/abhisheksaxena1998/Emotion-detection-from-video
 
 
